@@ -1,0 +1,30 @@
+<catalog>
+  <opentime>
+    <Day>Monday</Day>
+    <Hours>9am-6pm</Hours>
+  </opentime>
+  <opentime>
+    <Day>Tuesday</Day>
+    <Hours>9am-6pm</Hours>
+  </opentime>
+  <opentime>
+    <Day>Wednesday</Day>
+    <Hours>9am-6pm</Hours>
+  </opentime>
+  <opentime>
+    <Day>Thursday</Day>
+    <Hours>9am-6pm</Hours>
+  </opentime>
+  <opentime>
+    <Day>Friday</Day>
+    <Hours>9am-6pm</Hours>
+  </opentime>
+  <opentime>
+    <Day>Saturday</Day>
+    <Hours>9am-5:30pm</Hours>
+  </opentime>
+  <opentime>
+    <Day>Sunday</Day>
+    <Hours>11am-5pm</Hours>
+  </opentime>
+</catalog>

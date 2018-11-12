@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="books.xsl"?>
+
+<catalog>
+  <book>
+    <title>
+      Lord of The Rings
+    </title>
+    <author>
+      JK Tolkein
+    </author>
+  </book>
+  <book>
+    <title>
+      Bookends
+    </title>
+    <author>
+      Jane Green
+    </author>
+  </book>
+
+</catalog>
